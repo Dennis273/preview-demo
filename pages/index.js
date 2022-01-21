@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
+        <h1 className={styles.title} style={{ color: 'blue' }}>
          Webmail Preview !
         </h1>
 
